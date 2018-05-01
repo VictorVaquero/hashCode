@@ -1,2 +1,2 @@
-# hashCode 
-Solucion al hascode 2018 de google 
+# hashCode
+My own try at HashCode 2018 by google
